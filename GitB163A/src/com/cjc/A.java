@@ -6,11 +6,16 @@ public class A {
 	}
 
 	public void m2() {
-		System.out.printnln("m2 method");
+		System.out.println("m2 method");
 	}
 
 	public void m3(){
 		System.out.println("m3 method- Git");
+	}
+
+	//m4 method added
+	public void m4() {
+		System.out.println("m4 method-ide");
 	}
 	
 	public static void main(String[] args) {
