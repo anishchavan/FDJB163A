@@ -6,11 +6,11 @@ public class A {
 	}
 
 	public void m2() {
-		System.out.printnln("m1 method");
+		System.out.printnln("m2 method");
 	}
 
 	public void m3(){
-		System.out.println("m3 method");
+		System.out.println("m3 method- Git");
 	}
 	
 	public static void main(String[] args) {
